@@ -1,1 +1,2 @@
-# -The-Case-of-Cross-Site-Request-Forgery
+Net Helplessness Detection: The Case of 
+Cross-Site Request Forgery 
